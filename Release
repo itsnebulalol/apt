@@ -1,0 +1,18 @@
+Origin: Nebula's Repo
+Label: Nebula's Repo
+Suite: stable
+Version: 1.0
+Codename: nebularepo
+Architectures: iphoneos-arm
+Components: main
+Description: Nebula's Repo
+MD5Sum:
+ cd3d8bf30a55c0ed8ec5d6a415b4d2dc 464 Packages
+ fdc5be5dab44e2bf1a1244d86acc6410 393 Packages.bz2
+ b713c8b7f4806ecf4a649e56ee189717 368 Packages.gz
+ 689e03b3f5f02a510460206fd6093e8a 356 Packages.zst
+SHA256:
+ d4e660d6edab8a833f50fc482d9171167b6168df6d224fe69ff529b60d777649 464 Packages
+ a8d187b2ea566b9082f3da7fbad7ca15ab71cc5fe323825313e8beddb93d09c0 393 Packages.bz2
+ 3ea39fbdd2c86fa865034c238575e37dd12d45ff3a8118f320783b599834fe49 368 Packages.gz
+ f589270389ed47e2e93bff9d876c9b9b8607b948795433b5635b4a8ee6f7d679 356 Packages.zst

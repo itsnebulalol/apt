@@ -1,0 +1,41 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tintColor": "#f895c2",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Description",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "title": "Samsung OneUI style clock widget for Xen HTML."
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Features",
+        "views": [
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Customizable colors \r\n- Lockscreen and homescreen"
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Changelog",
+        "views": [
+	  {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.0 (8/30/21)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Initial release"
+          },
+        ],
+      }
+    ]
+  }
