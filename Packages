@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Nebula
 Depends: com.matchstic.xenhtml (>= 2.0~release)
 Filename: debs/lol.itsnebula.onetime_1.0.deb
-Size: 144300
-MD5sum: 00bff86578311e8db8275b774798cb2f
-SHA1: 86a43f6ad12e6db151de955508e4c9c13a7c70ef
-SHA256: 4794b67da175dee5e38a7aa6bdf460e58d71599f62a2c179b146f0e81f2cef8f
+Size: 56680
+MD5sum: 6c15e736dad9da42f6f55d209cdc6d00
+SHA1: 9ce76882f55f97a450f85c813ae2d7192cff9a5f
+SHA256: 359e2494694f8adafe6b8ac77e36d26ea6fe26eec56d91b1cc154cbf36975cd0
 Section: Widgets
 Description: Samsung OneUI style clock widget for Xen HTML.
 Author: Nebula
