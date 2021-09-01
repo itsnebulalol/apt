@@ -17,21 +17,10 @@
                {
                   "url": "https://apt.itsnebula.lol/screenshots/lol.itsnebula.onetime/1.png",
                   "accessibilityText": "Screenshot 1"
-               },
-               {
-                  "url": "https://apt.itsnebula.lol/screenshots/lol.itsnebula.onetime/2.png",
-                  "accessibilityText": "Screenshot 2"
                }
             ],
             "itemCornerRadius": 6,
             "class": "DepictionScreenshotsView"
-          },
-          {
-            "title": "markdown-description",
-            "useBoldText": true,
-            "useBottomMargin": false,
-            "markdown": "113223",
-            "class": "DepictionMarkdownView"
           },
           {
             "class": "DepictionSeparatorView"
