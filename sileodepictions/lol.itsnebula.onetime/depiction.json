@@ -11,6 +11,59 @@
             "class": "DepictionSubheaderView",
             "title": "Samsung OneUI style clock widget for Xen HTML."
           },
+          {
+            "itemSize": "{160, 275.41333333333336}",
+            "screenshots": [
+               {
+                  "url": "https://apt.itsnebula.lol/screenshots/lol.itsnebula.onetime/1.png",
+                  "accessibilityText": "Screenshot 1"
+               },
+               {
+                  "url": "https://apt.itsnebula.lol/screenshots/lol.itsnebula.onetime/2.png",
+                  "accessibilityText": "Screenshot 2"
+               }
+            ],
+            "itemCornerRadius": 6,
+            "class": "DepictionScreenshotsView"
+          },
+          {
+            "title": "markdown-description",
+            "useBoldText": true,
+            "useBottomMargin": false,
+            "markdown": "113223",
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Version",
+            "text": "1.0",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Released",
+            "text": "08-30-2021",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Price",
+            "text": "Free",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          },
+          {
+            "title": "Developer",
+            "text": "Nebula",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          } 
         ],
       },
       {
