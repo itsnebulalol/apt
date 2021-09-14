@@ -9,7 +9,7 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
-            "title": "Samsung OneUI style clock widget for Xen HTML."
+            "title": "Samsung OneUI style clock widget for Xen HTML. Credits for some of the code goes to Alo's LS | Cotton."
           },
           {
             "itemSize": "{160, 275.41333333333336}",
