@@ -77,7 +77,15 @@
         "class": "DepictionStackView",
         "tabname": "Changelog",
         "views": [
-	  {
+          {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.1 (2/23/22)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Make conflicts more lenient"
+          },
+	        {
             "class": "DepictionSubheaderView",
             "title": "Version: 1.0 (2/22/22)"
           },
