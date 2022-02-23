@@ -1,0 +1,91 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tintColor": "#f895c2",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Description",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "title": "The better AdBlocker."
+          },
+          {
+            "itemSize": "{160, 275.41333333333336}",
+            "screenshots": [
+               {
+                  "url": "https://apt.itsnebula.lol/screenshots/me.nebula.betterblock/1.png",
+                  "accessibilityText": "Screenshot 1"
+               },
+               {
+                  "url": "https://apt.itsnebula.lol/screenshots/me.nebula.betterblock/2.png",
+                  "accessibilityText": "Screenshot 2"
+               },
+               {
+                  "url": "https://apt.itsnebula.lol/screenshots/me.nebula.betterblock/3.png",
+                  "accessibilityText": "Screenshot 3"
+               }
+            ],
+            "itemCornerRadius": 6,
+            "class": "DepictionScreenshotsView"
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "title": "Version",
+            "text": "1.0",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Released",
+            "text": "2/22/22",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "title": "Price",
+            "text": "Free",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          },
+          {
+            "title": "Developer",
+            "text": "Nebula",
+            "class": "DepictionTableTextView"
+          },
+          {
+            "spacing": 8,
+            "class": "DepictionSpacerView"
+          } 
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Features",
+        "views": [
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Auto updates \r\n- No bootlooping (cough cough MYbloXX) \r\n- Easy setup \r\n- No battery drain \r\n- No slowdowns \r\n- 100% blocking on multiple tests"
+          },
+        ],
+      },
+      {
+        "class": "DepictionStackView",
+        "tabname": "Changelog",
+        "views": [
+	  {
+            "class": "DepictionSubheaderView",
+            "title": "Version: 1.0 (2/22/22)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Initial release"
+          },
+        ],
+      }
+    ]
+  }

@@ -1,17 +1,17 @@
-Package: lol.itsnebula.onetime
+Package: me.nebula.betterblock
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Nebula
-Depends: com.matchstic.xenhtml (>= 2.0~release)
-Filename: debs/lol.itsnebula.onetime_1.0.deb
-Size: 56680
-MD5sum: 6c15e736dad9da42f6f55d209cdc6d00
-SHA1: 9ce76882f55f97a450f85c813ae2d7192cff9a5f
-SHA256: 359e2494694f8adafe6b8ac77e36d26ea6fe26eec56d91b1cc154cbf36975cd0
-Section: Widgets
-Description: Samsung OneUI style clock widget for Xen HTML.
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: com.ceadd.blockyoux-procursus, com.ceadd.blockyoux, com.ceadd.blockyou10, com.ceadd.blockyou11, com.ceadd.blockyou12, com.droomone.tabblocker, com.git-anish.mdnsrestart, com.nathanaccidentally.mdnsflush, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.p2kdev.safariblocker, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.sinfool.youtopia, com.thireus.hostscleaner, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, net.myxxdev.mybloxx, net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, net.myxxdev.mybloxx4, net.myxxdev.mybloxxlite13, net.myxxdev.mybloxxlite14, net.myxxdev.issupervisedbegone, net.myxxdev.mybloxxhipfix, net.myxxdev.mybloxxupdater, net.myxxdev.mybloxx14
+Filename: debs/me.nebula.betterblock_1.0_iphoneos-arm.deb
+Size: 19782
+MD5sum: b57d916d2ab31d2cb87483dd50841aa3
+SHA1: 2ae75e7c0a808c9b34e9b9682f03c32911ed48fb
+SHA256: f0ad187fa45f12776cb0ec14430a4dcaa0bd716a5bc5ab5a3495b27d9d8e2cea
+Section: Tweaks
+Description: The best AdBlocker. Auto updating, no slowdowns, no bootloops (unlike others).
 Author: Nebula
-Depiction: https://apt.itsnebula.lol/depictions/lol.itsnebula.onetime.html
-Name: OneTime
-Sileodepiction: https://apt.itsnebula.lol/sileodepictions/lol.itsnebula.onetime/depiction.json
+Name: BetterBlock
 
