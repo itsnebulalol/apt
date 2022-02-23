@@ -5,11 +5,11 @@ Maintainer: Nebula
 Installed-Size: 296
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
 Conflicts: com.ceadd.blockyoux-procursus, com.ceadd.blockyoux, com.ceadd.blockyou10, com.ceadd.blockyou11, com.ceadd.blockyou12, com.droomone.tabblocker, com.git-anish.mdnsrestart, com.nathanaccidentally.mdnsflush, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.p2kdev.safariblocker, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.sinfool.youtopia, com.thireus.hostscleaner, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, net.myxxdev.mybloxx, net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, net.myxxdev.mybloxx4, net.myxxdev.mybloxxlite13, net.myxxdev.mybloxxlite14, net.myxxdev.issupervisedbegone, net.myxxdev.mybloxxhipfix, net.myxxdev.mybloxxupdater, net.myxxdev.mybloxx14
-Filename: debs/me.nebula.betterblock_1.0_iphoneos-arm.deb
-Size: 19782
-MD5sum: b57d916d2ab31d2cb87483dd50841aa3
-SHA1: 2ae75e7c0a808c9b34e9b9682f03c32911ed48fb
-SHA256: f0ad187fa45f12776cb0ec14430a4dcaa0bd716a5bc5ab5a3495b27d9d8e2cea
+Filename: debs/me.nebula.betterblock_1.0.deb
+Size: 19726
+MD5sum: bb43484426f003383c167f5790625d32
+SHA1: a32bb7387217636efed0ff1b7f59e3d905096d4e
+SHA256: 51490364a9e82633e7633a1497923aed851ae34828b4c1f7846b62ec8398bed3
 Section: Tweaks
 Description: The best AdBlocker. Auto updating, no slowdowns, no bootloops (unlike others).
 Author: Nebula
