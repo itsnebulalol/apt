@@ -79,6 +79,14 @@
         "views": [
           {
             "class": "DepictionSubheaderView",
+            "title": "Version: 1.2 (2/23/22)"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "- Add on install popup"
+          },
+          {
+            "class": "DepictionSubheaderView",
             "title": "Version: 1.1 (2/23/22)"
           },
           {
