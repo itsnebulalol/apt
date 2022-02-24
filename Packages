@@ -32,20 +32,3 @@ Description: The best AdBlocker. Auto updating, no slowdowns, 100% blocking on a
 Author: Nebula
 Name: BetterBlock
 
-Package: me.nebula.betterblock
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Nebula
-Installed-Size: 296
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Conflicts: net.myxxdev.mybloxx, net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, net.myxxdev.mybloxx4, net.myxxdev.mybloxxlite13, net.myxxdev.mybloxxlite14, net.myxxdev.issupervisedbegone, net.myxxdev.mybloxxhipfix, net.myxxdev.mybloxxupdater, net.myxxdev.mybloxx14
-Filename: debs/me.nebula.betterblock_1.2_iphoneos-arm.deb
-Size: 27248
-MD5sum: 1d4956e94f348e8f049520867083a9ab
-SHA1: 8292fbdf689eb29bc768de04e2de07b2ebeba9ac
-SHA256: a29e448d89f456f21947cccf09124aebb89c73e1ad6e9e925421144e0b3a2ce6
-Section: Tweaks
-Description: The best AdBlocker. Auto updating, no slowdowns, 100% blocking on ads.
-Author: Nebula
-Name: BetterBlock
-
