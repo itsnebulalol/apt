@@ -1,39 +1,3 @@
-Package: 8H69ZMY835.science.xnu.undecimus.8H69ZMY835
-Architecture: iphoneos-arm
-Version: 6.1.1
-Section: Applications
-Maintainer: science
-Depends: firmware (>=11.0)
-Filename: ./pool/unc0ver_6.1.1.deb
-Size: 50133752
-MD5sum: ed123c8d5e2f23a276b5055dde0b1b74
-SHA1: 9625e9e3d13f65df658b0ec98423439c7380bf19
-SHA256: a9612bad1f24c50f9a19c9477868c3d245723e90252814337f77965cea4a1d98
-SHA512: 77449f048f7b9fe988d71a998d02cc605057d82e7ca23c084170816187975c980ad061a0f13f89772ee712844112ca2e442a53aa8b97e75366cfc6e57376c1eb
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: unc0ver
-Author: science
-Tags: compatible_min::ios11.0
-Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=unc0ver
-
-Package: 8H69ZMY835.science.xnu.undecimus.8H69ZMY835
-Architecture: iphoneos-arm
-Version: 8.0.2
-Section: Applications
-Maintainer: science
-Depends: firmware (>=11.0)
-Filename: ./pool/unc0ver_8.0.2.deb
-Size: 47219340
-MD5sum: 88f35e6f304e86eaceba10a11e70a0b9
-SHA1: 16410d3e75b98b44d5187e49e9d3dcd8f6e3ac0c
-SHA256: 17a936315ec80e2bea4a603dba99e7879795827fdfcbef3c540f5a4b85fd1f0a
-SHA512: 48206a691bdb082e8197b41153745b2bd23988b9a06c494558ef6aa4b70e5d7ae832be5550f1e9182ab92e35a9827494320bea081ab7812f8a99e7321a79adf3
-Description: unc0ver resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: unc0ver
-Author: science
-Tags: compatible_min::ios11.0
-Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=unc0ver
-
 Package: ws.hbang.newterm2
 Architecture: iphoneos-arm
 Version: 2.5-100
