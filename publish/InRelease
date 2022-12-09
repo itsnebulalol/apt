@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: iphoneos-arm
+Codename: nebularepo
+Components: main
+Date: Fri, 09 Dec 2022 17:57:03 +0000
+Description: My repo containing some cool and possibly useful packages
+Label: Nebula's Repo
+Origin: Nebula's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ e91ab38912b97b76f3279995020a887a             2650 Packages
+ f69f2a31a5e1b0a45bce45a1876e3d6d             1413 Packages.bz2
+ 94d59c732ed5a2cabaa511126121419c             1251 Packages.gz
+ a4f230f97201f2de7a5a841e4f7885ef             1763 Packages.lz4
+ d14db0c1aff38f25a74ef4964e531588             1269 Packages.lzma
+ 33954d403ea95c84b09cfa93180bc181             1316 Packages.xz
+ decda643bcb4752cb3712307b9fdeb94             1249 Packages.zst
+ eecab46b96bc6c617719629cb9d26ae5              245 Release
+SHA1:
+ ef07267a3834d3f30f1e71ab58088016501d8153             2650 Packages
+ 3762d52e4878bc06f095de090fec905692597de4             1413 Packages.bz2
+ f14b92a188fcff37ca419d74b76344c24114864c             1251 Packages.gz
+ f7133aeb9232eb59bb8e0ce74eedaf67498ab864             1763 Packages.lz4
+ b95de71ef515ed769e170ca5c621fb414696f438             1269 Packages.lzma
+ bf36231ab9836c05a94063db235a0d2808eab59f             1316 Packages.xz
+ d50b4dd94271306beae27f4451efc7bd8e3e7a5a             1249 Packages.zst
+ 3c093dac0824b9b52edf46f2819d9fbadaed5351              245 Release
+SHA256:
+ 1f50c18933470d38cdf0c4238714e96980b38f2a17d6a0a8f7adebfbada54772             2650 Packages
+ 79cbfa889f0812c203a9ec6082f04738629b65a2919dbea61af30e5f7f79ae52             1413 Packages.bz2
+ 9796f4062c2cd9c1248b7ec04671eac6ec7869bde9ed52e62f75ccc9bcbbe424             1251 Packages.gz
+ 12cdc318209752abdcbc6f56a5eeacd60e150ceed9414cd64d663e630cf2cebc             1763 Packages.lz4
+ 7a93d3968a487aaf960c49f0f0528547a9d335490c7d989e5184431419d1a6a2             1269 Packages.lzma
+ 6b56240e761becd4ddd31beb565ac8615a2dbde2b244c213ad6a594bd7cf3cfb             1316 Packages.xz
+ 721f2d8c9a687b4ef8f42829808adcc7eff1ce6d8b0d42945b2f9a4ad7d76ca6             1249 Packages.zst
+ 39accc49675e0cb7ce6bd2fc2e13f1a4c606c0224c77fe11bf84ade46c64161b              245 Release
+SHA512:
+ fb38992cfb78d013e5c149ed0c3886814da17a71e7e5069c18cfbe0eb896936fda94fc13c940b12dde6e930f2f924851549ce6f6d9bfa96a5c53e9e8512387a7             2650 Packages
+ 3808668923173fb4c5ab1c0dc6570529a6a1ce1934ef8abddab60debda5c14aef6841ab50c9d75f5672aa88d622a26e2ef91b0d6a5d1c97c5cfaecc8a46d4d11             1413 Packages.bz2
+ 72a2506c9e1e98d2218832b7b4d67e6f990f2d4c983cf2fdd0e6401b7a31b63228d19b11c206904424d51d35530b60bece6b9fbea4b49b9f56fb332f68c6f1ff             1251 Packages.gz
+ eba1c151040ab83649f09b99e702fc94cac7d6b883af2d053f9d91d6157d11716f10650e5037eb2a68994a1746f253616f45259ae15d92ec0dc8a161cb62887b             1763 Packages.lz4
+ d43c847b21f15c3d02d878b62b0aba128c7e212360efceaac2994ecd2522c2f33485c703691f68e59eaa5bdecd93301dc7fccbed7da1227ef3f2c2965fd7e66c             1269 Packages.lzma
+ 976f8291ea1632c5383f88314acfe69ce67c2b963583fa44c840a3b037f3f67f1352c338acba620e7ec13d97649691615263279152aa85921cec52e51030c024             1316 Packages.xz
+ 38573666b3e20fba4e0c97a7afbab29bd37eb672da5f65707d6c3c6f224a85076e7ef73735191f9fc08f246f9fb204237e0d1798c77dddf215ffc114a0f872c4             1249 Packages.zst
+ e3300b7d4136edaf7e40fd559af884cccda5d3e085506288c5dd14e726efd6f307156842cf25016490a128bc3030acfe5c096b20664494b1f5c08558205818d8              245 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE+wT2yOxW2jLzMAjFPRsopfrMtTsFAmOTdvAACgkQPRsopfrM
+tTvXhA/+MEuv8bA5/S9e+eB6xgKP17EXMG9gk/4KgPRWPvijwwexUj5sEfH6VXTF
+4zZnWk0AUbWgfdcGCVl/A29Eyp+cYjqzJffEowcn7EUZOJB3P473vB+5ZsaPWmtb
+puwFN68+a2vl2oPSYqZZr5mKHHJb0AeO3B/MW5tViRQikl/HsrCOLQSKMH90u+za
+2EbI4LYw/6ZhzZv1+oc2ledFoCKCc6jTNakl2Ckyz7vXqACVQslcGydoDBGsuwVH
+n+DceV9ic5xPphbk/UfIFcHQm8aQ1bPcjXOaD2tNn/1M0cqAem7tyQxmuQOzjKfN
+Gn2zgeVmZIlicwjeYkV+NVajlMzrhUoM6zaDA6BVa8MLeFloPQs4V1QirCKGRIAs
+D+NCzRTtkrtvk30Tr8UD1uERz8AAM3BQSGShrijaQXdxiOvnm5oYdHFPC94pFuO2
+DqQRqu7bNm/VP6nADOssn3M6aBOOrAXA98SFs7f7KK4FNWJQ1ODO9YSWdZfwlGnG
+DSzsg6mj4DUDLtU7c5C1DRRuGVWdtv5ZOpmXw2ex1jtTbj0PoZgXuq1j/dHTtqdn
+cxxEnHF8pyJealBnGrVoxlQYUke7idw5RSwcZe5M4VqerZeuiMHOuLugYLKeQM20
+LZjJAS0kO1h6pcBlabhbHKVuhlFv5scgPLnMPly9oRcVqcwlgKk=
+=Ui0h
+-----END PGP SIGNATURE-----

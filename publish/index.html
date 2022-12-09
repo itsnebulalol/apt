@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nebula's Repo</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style type="text/tailwindcss">
+        @import url("https://api.fonts.coollabs.io/css2?family=Open+Sans:wght@300;400;500;700&display=swap");
+
+        h1 {
+            @apply text-2xl;
+        }
+        h2 {
+            @apply text-xl;
+        }
+        h3 {
+            @apply text-lg;
+        }
+        a {
+            @apply text-blue-600 underline;
+        }
+
+        @layer base {
+            h1,
+            h2,
+            h3,
+            h4 {
+                @apply font-bold;
+            }
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        :root {
+            font-family: "Open Sans", sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-white dark:bg-gray-900 text-black dark:text-white">
+    <div class="mt-[30px]"></div>
+
+    <div class="text-center items-center mr-[20px] ml-[20px] w-8/10">
+        <h1>Nebula's Repo</h1>
+        <div class="mt-[5px]"></div>
+        <p>Hi! You probably want to add this repo to a package manager, like Sileo.</p>
+        <br>
+    </div>
+
+    <div class="mr-[20px] ml-[20px] mt-[10px] w-8/10 h-[175px] flex flex-col flex-nowrap bg-gray-100 dark:bg-gray-800 r
+ounded-xl text-center items-center justify-center">
+        <h2>Add to a Package Manager</h2>
+        <br>
+        <div class="flex flex-row flex-wrap">
+            <a href="sileo://source/https://apt.itsnebula.net/" class="text-white bg-blue-700 hover:bg-blue-800 focus
+:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-blue-600 dark:hover
+:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 no-underline">Sileo</a>
+            <a href="zbra://sources/add/https://apt.itsnebula.net/" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:rin
+g-blue-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-blue-600 dark:hover:bg-blue-700 focu
+s:outline-none dark:focus:ring-blue-800 no-underline">Zebra</a>
+            <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.itsnebula.net/" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:rin
+g-blue-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-blue-600 dark:hover:bg-blue-700 focu
+s:outline-none dark:focus:ring-blue-800 no-underline">Cydia</a>
+            <a href="installer://add/https://apt.itsnebula.net/" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:rin
+g-blue-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-blue-600 dark:hover:bg-blue-700 focu
+s:outline-none dark:focus:ring-blue-800 no-underline">Installer</a>
+            <a href="apt-repo://https://apt.itsnebula.net/" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:rin
+g-blue-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-blue-600 dark:hover:bg-blue-700 focu
+s:outline-none dark:focus:ring-blue-800 no-underline">Saily</a>
+        </div>
+    </div>
+</body>
+</html>
