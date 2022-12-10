@@ -6,10 +6,10 @@ Maintainer: Nebula <me@itsnebula.net>
 Depends: ldid
 Filename: ./pool/me.nebula.filzafixer_1.0_iphoneos-arm.deb
 Size: 832
-MD5sum: d89170e19022d0520a5e4304ac50a49b
-SHA1: 2806084426200e794d38f4587d0e3a2f71e72577
-SHA256: 2d6a296452bcce7b87a24ae2a2fc48e9a1e8e0df9322a9b4b2bf6eeb43ff503c
-SHA512: af856352e44a6f8796e163d62b7d4b8d9762ddba811981e1ff68b737203fad7bc421d61e0f93709db9226e06bfb687a8ee3c0999168e5d18cfb0422bd071c04c
+MD5sum: 81c799289b8ed794b018df80bc8d6f62
+SHA1: c9723007fa5a3a424d3443161b94efc2da99d568
+SHA256: 592f4d0dc74deafe5bef7223bc3360329734105a0a41f584a81efb1f2f6eb5d7
+SHA512: 963ca950d07e5335a8b93e3a9a8d3d9cdb8455858e28e80b14a9ad8f517bc719748d2fb3a57d152c2cd8b95007239e1827fc4d154e43ac4a26666f0ac855b1e6
 Description: Fixes Filza, so it opens and dpkg doesn't complain. Make sure it's installed before installing this.
 Name: FilzaFixer
 Author: Nebula <me@itsnebula.net>
