@@ -1,14 +1,15 @@
 Package: me.nebula.filzafixer
 Architecture: iphoneos-arm
 Version: 1.0
+Section: Utilities
 Maintainer: Nebula <me@itsnebula.net>
 Depends: com.tigisoftware.filza64bit, ldid
 Filename: ./pool/me.nebula.filzafixer_1.0_iphoneos-arm.deb
-Size: 742
-MD5sum: 67f8287ab10525ccb0303148132f51ee
-SHA1: 4d833e6e76b68b97cc9423fdda0a89e9f0b3e2ad
-SHA256: 70a3c6c6824ed526604c4d6cf03c7c5c425404a3773275328ba8469feec8145f
-SHA512: 1e338b97f6b2cdb778d46cc1d12997cbf7b10043d05c13d8fd58d98235eb84889683710ef5d900080c5b5733b2bc8ba23f608d862ff76e463d9cd528e722c150
+Size: 756
+MD5sum: 48b7bb0226af5da85c78f121da78034b
+SHA1: 4b1955087e9f3f71f0c29b00faaa2f0e01fb30f2
+SHA256: b30c76005b56e305a0752c07636691c68978bf844bf8883e158cacfbd21c87b7
+SHA512: 9924dd8a76cfb07325a0b69f47da612097228e14dbea9d93f212073dd9c7c3550b4f157520dac37b0634e3cfc1c6ecbaf0c8a449bde7748f444756bf12ca50fb
 Description: Fixes Filza, so it opens and dpkg doesn't complain
 Name: FilzaFixer
 Author: Nebula <me@itsnebula.net>
@@ -17,14 +18,15 @@ Icon: http://www.tigisoftware.com/cydia/CydiaIcon.png
 Package: palecursus
 Architecture: iphoneos-arm
 Version: 1.0
+Section: Utilities
 Maintainer: Nebula <me@itsnebula.net>
 Depends: firmware (>= 15.0)
 Filename: ./pool/palecursus_1.0_iphoneos-arm.deb
-Size: 910
-MD5sum: 39d15c6cac4af4c3f2a6d7d36c0bc827
-SHA1: 1b1cbe4c91154fdff1f21bc88664b6bce925d29b
-SHA256: e58ac31773662bf4a41679f7dc73ac4c06b335184f1581734d1cd405e4ad6864
-SHA512: d9b9ccad3d9b5128b9672928e54bfcfe8c997f5290707dc2cbfd987df407f6c7ba5cb4d481445176400b39a781c2aa8ef2b0a519adc9400bce9b9d943d1d79cc
+Size: 914
+MD5sum: feaf9596e4f9cbea89497f0d4b67166c
+SHA1: b66550e13799854c967f30101d901338fe6ce352
+SHA256: 0578521a6477cbbc6ec71effb7da7d80e1f4eb511a50bcfa7812920b98243aaf
+SHA512: e938010721f0924bd0aaba8a4d5d80f4ccef969ab9ca3f5a252e239a84fd4e2a9c5c9b97edcbfb9f3f31d6da7c462bbf55fe464ecef8641526d58026d2bdfd2a
 Description: Replaces Procursus dist repo with palera1n's
 Name: palera1n strap repo
 Author: Samara
