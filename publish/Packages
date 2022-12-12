@@ -1,15 +1,15 @@
 Package: autosign
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Utilities
 Maintainer: Nebula <me@itsnebula.net>
 Depends: ldid, sed, file, mawk | gawk, firmware (>= 15.0)
-Filename: ./pool/autosign_1.0.0_iphoneos-arm.deb
-Size: 1738
-MD5sum: bbfd7c108db4e94007391faa7b86fed5
-SHA1: 2c177be7af6da9d57372782a5c74fcc7e6da65e4
-SHA256: cc38f717df9caf3a56db60180da1466d747744de5ce3512ce53fe3b2da4c09ed
-SHA512: 6cc319ac2145c47816393ccd861368ee5c9f2e048e12a127fd81a785972a07c8f8271041629e0c54e876dd70d4ed4eb2502359bae1c391a3ad3f4730addf8bbe
+Filename: ./pool/autosign_1.0.1_iphoneos-arm.deb
+Size: 1756
+MD5sum: 19f0f8083ef960015654b50e81fe9b5c
+SHA1: c46b3e3781bf9d462a74b8e3cf67a70e490372d4
+SHA256: f3349230aae04c1b4903bc483ce80ca17b5629f6391d5019932b60cead80182d
+SHA512: d6966de5b0d8a3a4ab052ccd099861ffdb4c748a4adbada2f52e700551d146a48d2fa05905e7537014bdfdf1834a29762b7aa765cf6a799b19993ceb684c8b83
 Description: Automatically signs binaries when installed with dpkg/apt. In Sileo, packages may appear as they are stuck at Queued, but you should wait, as AutoSign is processing the deb.
 Name: AutoSign
 Author: Nebula <me@itsnebula.net>, Ploosh, kristenl64
