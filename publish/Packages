@@ -1,3 +1,20 @@
+Package: autosign
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Utilities
+Maintainer: Nebula <me@itsnebula.net>
+Depends: ldid, sed, file, mawk | gawk, firmware (>= 15.0)
+Filename: ./pool/autosign_1.0.0_iphoneos-arm.deb
+Size: 2822
+MD5sum: b91d77ca366d937e72d521a58d732207
+SHA1: 99b75a847cd4a8ed6e1efc3a7fa79801a994c431
+SHA256: 56dac901a5eebdfc3b39472722c5a1ed488e9d25b3bab5494b326760f2a87163
+SHA512: 0045f0afec0fa87e63973892d07856f910788deefb1e3f8fea97b551965aa54d306520a82010d85b5143493e30a80b744b7c818ebdee38e81dbc107698f922c9
+Description: Automatically signs binaries when installed with dpkg/apt. In Sileo, packages may appear as they are stuck at Queued, but you should wait, as AutoSign is processing the deb.
+Name: AutoSign
+Author: Nebula <me@itsnebula.net>, Ploosh, kristenl64
+Icon: https://cdn.discordapp.com/attachments/1028398976640229380/1051537598046281859/Frame_19.png
+
 Package: me.nebula.filzafixer
 Architecture: iphoneos-arm
 Version: 1.0
