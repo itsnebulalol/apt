@@ -49,6 +49,22 @@ Name: FilzaFixer
 Author: Nebula <me@itsnebula.net>
 Icon: http://www.tigisoftware.com/cydia/CydiaIcon.png
 
+Package: me.nebula.fulluicache
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Nebula <me@itsnebula.net>
+Depends: firmware (>= 15.0)
+Filename: ./pool/me.nebula.fulluicache_1.0.0_iphoneos-arm.deb
+Size: 3146
+MD5sum: b3f3252ebf2e4260dbc44eaa9173af32
+SHA1: 6935b8d6baabbbebc7cc2ca37c3707dad70672ce
+SHA256: a7cea17d3c5d2aeda887be5c49475d66bbcbdb6bf4c3d9108fdaa6893ce25a9c
+SHA512: f910c5c011857c1e6e9b4600c905a8a8526fd4098ccc40e75d31d66260d7b1f958a4b163b8c575af2040c4c8c44c63c0a3ea71ed40cec3f14683f71b9d3f2916
+Description: Fully uicaches, fixes apps not appearing on iPads. Binary is placed as /usr/bin/fulluicache.
+Name: fulluicache
+Author: Nebula <me@itsnebula.net>
+
 Package: palecursus
 Architecture: iphoneos-arm
 Version: 1.0
