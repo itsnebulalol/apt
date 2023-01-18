@@ -32,24 +32,6 @@ Name: AutoSign
 Author: Nebula <me@itsnebula.net>, guacaplushy, woofy <admin@kristen.lc>
 Icon: https://cdn.discordapp.com/attachments/1028398976640229380/1051537598046281859/Frame_19.png
 
-Package: com.serena.santander
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: serena
-Depends: firmware (>=14.0)
-Filename: ./pool/com.serena.santander_1.0_iphoneos-arm.deb
-Size: 3452460
-MD5sum: 45e9fdf61c36d11d430a13ec3e794731
-SHA1: 349883d48bbac5b6dca7750df263a51b51be7a25
-SHA256: a9e0a6737e18db985fd2c188bbdade20a8c19a3e17dc4cdee7a9af838687862b
-SHA512: a8474c66f776d55acb8da3c511bee3682b240411a8a06b7ddd3d6eef1e2419ca696bdcba6685606a5091399237c66c99a1d4428824aa89ba8ce5afcf5bd6f9a8
-Description: Santander resigned with Linus Henze's CoreTrust bypass so it doesn't expire, and will persist in stock.
-Name: Santander
-Author: serena
-Tags: compatible_min::ios14.0
-Depiction: https://permasigner-depictions.itsnebula.net/depiction?name=Santander
-
 Package: me.nebula.filzafixer
 Architecture: iphoneos-arm
 Version: 1.0
